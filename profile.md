@@ -4,7 +4,7 @@
 
 ### https://www.amazon.co.uk/ref=nav_logo
 
-*I can do ** all ** things through Christ who strengthens me.- Philippians 4:13.* 
+*I can do all things through Christ who strengthens me.* **- Philippians 4:13.** 
 
 ### Top 5 podcasts
 1. Cocktails and Takeaways 
