@@ -1,12 +1,12 @@
-# H1 Rebecca B
+# Rebecca B
 
-## H2 A 26 years old student software developer. I have an MSc in Infecious Diseases and I currently work as a biomedical scientist in the East Midlands. I'm enjoying my coding journey so far and I look forward to learning more and getting my first tech role. I enjoy watching movies, hanging out with friends and family and listening to podcasts. 
+##  A 26 years old student software developer. I have an MSc in Infecious Diseases and I currently work as a biomedical scientist in the East Midlands. I'm enjoying my coding journey so far and I look forward to learning more and getting my first tech role. I enjoy watching movies, hanging out with friends and family and listening to podcasts. 
 
-### H3 https://www.amazon.co.uk/ref=nav_logo
+### https://www.amazon.co.uk/ref=nav_logo
 
-*I can do **all** things through Christ who strengthens me.- Philippians 4:13.* 
+*I can do ** all ** things through Christ who strengthens me.- Philippians 4:13.* 
 
-### H3 Top 5 podcasts
+### Top 5 podcasts
 1. Cocktails and Takeaways 
 2. The Diary of a CEO
 3. Thirty Minutes with The Perrys
